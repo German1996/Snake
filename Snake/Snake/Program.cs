@@ -34,7 +34,7 @@ namespace Snake
                 Console.WriteLine(i);
             }
 
-            nunList.RemoveAt(0);
+            
 
             List < Point > pList= new List<Point>();
             pList.Add(p1);
